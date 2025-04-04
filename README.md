@@ -89,7 +89,7 @@ ollama
 ### 1️⃣ Initialize Git and Add Remote Repository
 ```bash
 git init
-git remote add origin https://github.com/yourusername/local-document-qa.git
+git remote add origin https://github.com/krakken190/Local-Rag-Using-Olama-and-Langchain.git
 git branch -M main
 ```
 
