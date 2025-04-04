@@ -19,7 +19,7 @@ This project allows users to upload a PDF book and interactively ask questions a
 ### 1️⃣ Clone the Repository
 ```bash
 # Replace with your GitHub repository link
-git clone https://github.com/yourusername/local-document-qa.git
+git clone https://github.com/krakken190/Local-Rag-Using-Olama-and-Langchain.git
 cd local-document-qa
 ```
 
