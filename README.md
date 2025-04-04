@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/9f7b003d-0046-4934-ac58-e55c740b60a6
+
+
 # 📖 Streamlit-Based Local Document Q&A System
 
 This project allows users to upload a PDF book and interactively ask questions about its contents using **LangChain** and **Ollama (Llama 3.2)**.
