@@ -110,17 +110,10 @@ git push -u origin main
 1. Upload a PDF document.
 2. Ask questions related to the content.
 3. Receive AI-generated responses.
-4. Say "Thank you" or similar phrases to exit gracefully.
-
----
-
-## 📜 License
-This project is **MIT Licensed**. Feel free to modify and use it.
-
 ---
 
 ## 📧 Contact
-For any issues, feel free to open an issue on GitHub or reach out via email.
+For any issues, feel free to open an issue on GitHub or reach out via email.  prajwaldongre404@gmail.com
 
 Happy coding! 🚀
 
